@@ -1,0 +1,10 @@
+{
+    "auth":
+    {
+        "screen_name": "XXXXXXXXXX",
+        "CONSUMER_KEY": "XXXXXXXXXXXXXX",
+        "CONSUMER_SECRET": "XXXXXXXXXXXXXXXXXXX",
+        "ACCESS_TOKEN": "XXXXXXXXXXXXXXXXXXXXXX",
+        "ACCESS_SECRET": "XXXXXXXXXXXXXXXXXXXXXXXXX"
+    }
+}
